@@ -611,3 +611,7 @@ PRODUCT_PACKAGES += \
     init.spectrum.sh \
     init.camera.rc \
     init.camera.sh
+
+# IPA
+USE_DEVICE_SPECIFIC_DATA_IPA_CFG_MGR := true
+USE_DEVICE_SPECIFIC_IPACFG_MGR := true
