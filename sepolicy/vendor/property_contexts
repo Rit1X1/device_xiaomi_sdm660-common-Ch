@@ -61,3 +61,7 @@ persist.tcp.profile		   u:object_r:tcp_prop:s0
 
 # Spectrum
 persist.spectrum.profile                      u:object_r:spectrum_prop:s0
+
+# Accent Picker
+persist.sys.theme.accentcolor                 u:object_r:theme_prop:s0
+persist.sys.theme.gradientcolor               u:object_r:theme_prop:s0
