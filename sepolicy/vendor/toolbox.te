@@ -11,6 +11,3 @@ allow toolbox spectrum_prop:property_service { set };
 allow toolbox cpucore_prop:property_service { set };
 allow toolbox lkm_prop:property_service { set };
 allow toolbox tcp_prop:property_service { set };
-
-# Dirac
-allow toolbox dirac_prop:property_service { set };
