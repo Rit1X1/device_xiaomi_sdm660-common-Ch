@@ -119,6 +119,3 @@
 /sys/class/leds/vibrator/vmax_mv_user                u:object_r:sysfs_vibrator:s0
 /sys/class/leds/vibrator/vmax_mv_call                u:object_r:sysfs_vibrator:s0
 /sys/class/leds/vibrator/vmax_mv_strong              u:object_r:sysfs_vibrator:s0
-
-# Smart Charging
-/sys/class/power_supply/battery/charging_enabled                    u:object_r:sysfs_scharge:s0
