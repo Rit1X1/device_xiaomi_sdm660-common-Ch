@@ -97,10 +97,10 @@ ro.octavi.status=2.0 OFFICIAL
 ro.octavi.maintainer=CHRISL7
 
 # XiaomiParts
-ro.audio.soundfx.dirac=true
-persist.audio.dirac.speaker=true
-persist.dirac.acs.controller=qem
-persist.dirac.acs.storeSettings=1
-persist.dirac.acs.ignore_error=1
+cpuboost.support=1
+gpuboost.support=1
+tcp.support=1
+lkm.support=1
+cpucore.support=1
 spectrum.support=1
 persist.spectrum.kernel=perf+
