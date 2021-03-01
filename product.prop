@@ -90,3 +90,8 @@ ro.storaged.event.interval=99999
 
 # Zygote preforking
 persist.device_config.runtime_native.usap_pool_enabled=true
+
+# Octavi
+PRODUCT_PROPERTY_OVERRIDES += \
+ro.octavi.status=2.0 OFFICIAL
+ro.octavi.maintainer=CHRISL7
