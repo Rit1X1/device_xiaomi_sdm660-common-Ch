@@ -28,3 +28,6 @@ type lkm_prop, property_type;
 
 # TCP
 type tcp_prop, property_type;
+
+# IR
+type lirc_prop, property_type;
