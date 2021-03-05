@@ -637,3 +637,7 @@ PRODUCT_PACKAGES += \
     GCamGo \
     GalleryGo \
     Gboard
+
+# Octavi-OS
+PRODUCT_PACKAGES += \
+    CustomDoze
