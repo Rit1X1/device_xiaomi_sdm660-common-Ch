@@ -75,6 +75,7 @@ ro.octavi.status=2.1 OFFICIAL
 ro.octavi.maintainer=CHRISL7
 
 # XiaomiParts
+touchboost.support=1
 cpuboost.support=1
 gpuboost.support=1
 tcp.support=1
