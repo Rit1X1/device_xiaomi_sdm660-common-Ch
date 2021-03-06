@@ -245,6 +245,9 @@ debug.sf.disable_backpressure=1
 debug.sf.enable_gl_backpressure=1
 debug.sdm.support_writeback=0
 
+# System restart
+persist.vendor.ssr.restart_level=ALL_ENABLE 
+
 # USB
 vendor.usb.diag.func.name=diag
 vendor.usb.use_ffs_mtp=0
