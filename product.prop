@@ -52,7 +52,7 @@ ro.lmk.use_minfree_levels=true
 
 # Octavi
 ro.octavi.status=2.1 OFFICIAL
-ro.octavi.maintainer=CHRISL7
+ro.octavi.maintainer=Ritwik_Raj
 
 # OEM Unlock reporting
 ro.oem_unlock_supported=1
