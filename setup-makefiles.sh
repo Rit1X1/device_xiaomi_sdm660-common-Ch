@@ -33,11 +33,8 @@ fi
 
 ROOT="$COMMON_DIR"/../../..
 
-<<<<<<< HEAD
-HELPER="$ROOT"/vendor/awaken/build/tools/extract_utils.sh
-=======
 HELPER="$ROOT"/vendor/octavi/build/tools/extract_utils.sh
->>>>>>> 6d423a2e... Octavify
+
 if [ ! -f "$HELPER" ]; then
     echo "Unable to find helper script at $HELPER"
     exit 1
