@@ -623,8 +623,8 @@ PRODUCT_PACKAGES += \
     init.cpuboost.sh \
     init.parallax.rc \
     init.parallax.sh \
-    init.spectrum.rc \
-    init.spectrum.sh \
+   # init.spectrum.rc \
+   # init.spectrum.sh \
     init.camera.rc \
     init.camera.sh
 
