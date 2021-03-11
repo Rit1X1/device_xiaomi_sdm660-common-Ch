@@ -51,7 +51,7 @@ ro.lmk.kill_timeout_ms=100
 ro.lmk.use_minfree_levels=true
 
 # Octavi
-ro.octavi.status=2.1 OFFICIAL
+ro.octavi.status=2.1
 ro.octavi.maintainer=Ritwik_Raj
 
 # OEM Unlock reporting
